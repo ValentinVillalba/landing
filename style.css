@@ -1,0 +1,107 @@
+body
+{
+  background-color: black;
+  margin: 0px;
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+}
+.main-div
+{
+  width: 100%;
+  height: 100%;
+}
+.arriba
+{
+  padding: 35px;
+  background-image: url("imagenes/fondotop.jpg");
+  max-width: 100%;
+  height: 580px;
+  background-size: cover;
+  margin: 0px;
+  margin-top: -25px;
+}
+.titulos
+{
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+  font-size: 42px;
+}
+.titulo
+{
+  letter-spacing: 5px;
+  line-height: 100px;
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 4px gray;
+}
+.subtitulo
+{
+  line-height: 65px;
+  letter-spacing: 5px;
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 4px gray;
+}
+.sst-background
+{
+  width: 100%;
+  height: 100%;
+}
+.sub-subtitulo
+{
+  background-color: black;
+  opacity: 80%;
+  border-radius: 10px;
+  margin-left: 320px;
+  margin-right: 320px;
+  padding: 8px;
+  color: yellow;
+  font-size: 22px;
+  text-align: center;
+  text-shadow: 2px 2px 2px orange;
+}
+.sub-subtitulo2
+{
+  margin: 8px;
+  color: yellow;
+  font-size: 18px;
+  text-shadow: 2px 2px 2px orange;
+}
+.boton
+{
+  max-width: 100%;
+  max-height: 100%;
+  background-image: url("imagenes/fondo-amarillo.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 20px;
+  margin: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  padding: 25px;
+  opacity: 80%;
+}
+.boton:hover{
+    opacity: 100%;
+}
+a
+{
+  text-decoration: none;
+  color: black;
+  font-size: 32px;
+  text-shadow: 4px 4px 2px darkgray;
+}
+.mucho-texto
+{
+  margin: 8px;
+  line-height: 20px;
+  text-shadow: 1px 1px 1px darkred;
+}
+.abajo
+{
+  max-width: 100%;
+  max-height: 100%;
+  padding: 8px;
+}
